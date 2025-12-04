@@ -1,0 +1,14 @@
+INFO - Added reminder Buy bread (ID=1)
+INFO - Added reminder Team meeting (ID=2)
+INFO - Added reminder Workout (ID=3)
+INFO - Executed reminder ID=1: Buy bread : It is time
+INFO - Executed reminder ID=2: Team meeting - Participants: Ali, Sara : Meeting Reminder
+INFO - Executed reminder ID=3: Workout (daily repeat active) : Daily Routine
+WARNING - Removed reminder ID=1
+INFO - Added reminder Buy bread (ID=1)
+INFO - Added reminder Team meeting (ID=2)
+INFO - Added reminder Workout (ID=3)
+INFO - Executed reminder ID=1: Buy bread : It is time
+INFO - Executed reminder ID=2: Team meeting - Participants: Ali, Sara : Meeting Reminder
+INFO - Executed reminder ID=3: Workout (daily repeat active) : Daily Routine
+WARNING - Removed reminder ID=1
